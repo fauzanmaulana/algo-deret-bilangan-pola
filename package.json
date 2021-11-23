@@ -1,0 +1,15 @@
+{
+  "name": "tugas_algo_hilda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "jawaban_soal_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
